@@ -52,13 +52,18 @@ El objetivo de este proyecto será tener una casa más segura, ya que, en ocasio
 
 # Épicas de historias de Usuario
 •	En movimiento que se enciendan las luces para una mejor seguridad.
+
 •	También que se detecte tanto el humo como el gas y así sea una señal de alerta 
+
 •	La casa se ventile dependiendo de una cierta temperatura.
  
 
 # Tabla Historias de Usuario
-![image](https://user-images.githubusercontent.com/107783594/234903835-034d19f0-035e-432d-ab4d-1de8590fdff7.png)
-
+| Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
+|----|---------------------|-----------|------------|---------------|-------------|
+|   001 |      Al detectar movimiento se enciendan los led | Alta|	1 semana|	Al pasar una persona|	Esmeralda
+|   002 | La casa se ventile dependiendo de una cierta temperatura.	 |Media |	2 días  |	Depende de la temperatura. |	Omar
+|  003  |  Que la casa detecte fugas de gas haga sonar un buzzer cuando el nivel sea alto|	Alta|	3 días| 	Al exponer el sensor a una fuga de gas.	|Michel
 
 # Prototipo en dibujo
 
