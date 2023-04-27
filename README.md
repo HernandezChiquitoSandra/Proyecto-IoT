@@ -9,89 +9,37 @@ Asignatura: Aplicaciones de loT
 
 Docente: Anastacio Rodríguez García 
 
-
-Alumnos:                         Nº Control:
-
-Sandra Michel Hernández Chiquito      1221100284
-
-Daniela Esmeralda Méndez                  1221100344
-
-Omar Alejandro Lozada Zúñiga            1221100256
-
-
-
-
-Grupo: GDS0453
-
-
-
-
-21/04/2023
-
-
-
-
-
-
 Integrantes:
 Daniela Esmeralda Méndez | 1221100344
 Sandra Michel Hernández Chiquito | 1221100284
 Omar Alejandro Lozada Zúñiga | 1221100256
-Objetivo general
+
+# Objetivo general
 El objetivo de este proyecto será tener una casa más segura, ya que, en ocasiones, en la mayoría de los hogares se olvida cerrar el gas de las estufas, lo cual puede ser muy peligro. Por otra parte, también se detectará movimiento y así se iluminará el exterior, de esta manera se pondrá en aviso a quienes están en el interior y harán, por el temor al verse descubierto, que el mal hechor se escape, algo más del proyecto es que cubra una necesidad en tiempos calurosos, detectara la temperatura y humedad y conforme esta sea una temperatura elevada se encenderá un ventilador.
 
-Objetivos específicos
+# Objetivos específicos
 ●	Detectara movimiento al pasar y se encenderán los leds.
 ●	Al detectar temperatura elevada se encenderá un servomotor (para la ventilación).
 ●	 El buzzer se encenderá cuando detecte gas o humo.
 
-Tabla de software utilizado
-
-Id	Software	Versión 	Tipo
-001	Visual Studio Code	1.71.2	Freeware
-002	Arduino IDE	2	2
-003	Librería para sensor temperatura (DHT11)		
-004	Mosquito	5.0.3.1.1	Freeware
-005	NODE-RED	3.0	Freeware
-006	Motor de base de Datos		Freeware
+# Tabla de software utilizado
+![image](https://user-images.githubusercontent.com/107783594/234897959-6c2bd749-2d61-42e4-8388-c0d0943bef6c.png)
 
 
+# Tabla de hadware utilizado
+![image](https://user-images.githubusercontent.com/107783594/234898094-28b31cf1-fbf3-4f8f-88d6-89694dccd3ea.png)
 
 
-
-
-
-
-
-Tabla de hadware utilizado
-
-Id	Componentes	Descripción	Imagen	Cantidad	Costo
-001	Esp32	El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos	 	1	$160
-002	Servomotor	Es un tipo de motor eléctrico que tiene la capacidad de controlar el movimiento de su eje, en velocidad, aceleración, par y posición.	 	1	
-$80
-003	Temperatura
-DHT11	Dispositivos utilizados en aplicaciones de edificación para medir la temperatura de un fluido, normalmente aire o agua.	
- 	1	$75
-004	Buzzer	Es un pequeño transductor capaz de convertir la energía eléctrica en sonido. 	 	1	$60
-005	Led RGB	El Led RGB emite luz a través del paso de la corriente eléctrica, pero tiene la peculiaridad de estar compuesto por tres Leds de diferentes colores: rojo(Red),verde(Green),azul(Blue), de ahí el nombre “RGB”	 	8	$24
-006	MQ-2	 Es un sensor de gas inflamable y humo que detecta las concentraciones de gas combustible en el aire y emite su lectura como un voltaje analógico.	 	1	$80
-007	Movimiento	Es un dispositivo electrónico que pone en funcionamiento un sistema (encendido o apagado) cuando detecta movimiento en el área o ambiente en el que está instalado.	 	1	$55
-008	LCD	LCD o pantalla de cristal líquido, está conformada por un número de píxeles en color o monocromos colocados delante de una fuente de luz o reflectora, es delgada y plana. 	 	1	$98
-
-
-Épicas de historias de Usuario
+# Épicas de historias de Usuario
 •	En movimiento que se enciendan las luces para una mejor seguridad.
 •	También que se detecte tanto el humo como el gas y así sea una señal de alerta 
 •	La casa se ventile dependiendo de una cierta temperatura.
  
 
-Tabla Historias de Usuario
-Id	Historia de Usuario	Prioridad	Estimación	Como probarlo	Responsable
-001	Al detectar movimiento se enciendan los led	Alta	1 semana	Al pasar una persona	Esmeralda
-002	La casa se ventile dependiendo de una cierta temperatura.	Media	2 días 	Depende de la temperatura.	Omar
-003	Que la casa detecte fugas de gas haga sonar un buzzer cuando el nivel sea alto	Alta	3 días 	Al exponer el sensor a una fuga de gas.	Michel
+# Tabla Historias de Usuario
+![image](https://user-images.githubusercontent.com/107783594/234898249-404cf08a-0631-4e65-85a5-1da3e88ef817.png)
 
-Prototipo en dibujo
+# Prototipo en dibujo
 
 
 ![image](https://user-images.githubusercontent.com/107783594/234896709-19f0f645-ba0f-47ce-984f-a3a972266d9d.png)
@@ -235,4 +183,6 @@ delay(1000);
 }
 
 ![image](https://user-images.githubusercontent.com/107783594/234896922-e35d089f-750f-4153-b1ac-5ba42433b2e1.png)
+
+# Link video
 
