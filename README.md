@@ -37,7 +37,8 @@ El objetivo de este proyecto será tener una casa más segura, ya que, en ocasio
  
 
 # Tabla Historias de Usuario
-![image](https://user-images.githubusercontent.com/107783594/234898249-404cf08a-0631-4e65-85a5-1da3e88ef817.png)
+![image](https://user-images.githubusercontent.com/107783594/234903835-034d19f0-035e-432d-ab4d-1de8590fdff7.png)
+
 
 # Prototipo en dibujo
 
