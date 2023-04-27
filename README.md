@@ -9,25 +9,25 @@ Docente: Anastacio Rodríguez García
 
 GDS0453
 
-# Integrantes:
+## Integrantes:
 Daniela Esmeralda Méndez | 1221100344
 
 Sandra Michel Hernández Chiquito | 1221100284
 
 Omar Alejandro Lozada Zúñiga | 1221100256
 
-# Nombre del Proyecto
+## Nombre del Proyecto
 Home Security
 
-# Objetivo general
+## Objetivo general
 El objetivo de este proyecto será tener una casa más segura, ya que, en ocasiones, en la mayoría de los hogares se olvida cerrar el gas de las estufas, lo cual puede ser muy peligro. Por otra parte, también se detectará movimiento y así se iluminará el exterior, de esta manera se pondrá en aviso a quienes están en el interior y harán, por el temor al verse descubierto, que el mal hechor se escape, algo más del proyecto es que cubra una necesidad en tiempos calurosos, detectara la temperatura y humedad y conforme esta sea una temperatura elevada se encenderá un ventilador.
 
-# Objetivos específicos
+## Objetivos específicos
 ●	Detectara movimiento al pasar y se encenderán los leds.
 ●	Al detectar temperatura elevada se encenderá un servomotor (para la ventilación).
 ●	 El buzzer se encenderá cuando detecte gas o humo.
 
-# Tabla de software utilizado
+## Tabla de software utilizado
 
 | Id | Software   | Version | Tipo    |
 |----|------------|---------|---------|
@@ -37,7 +37,7 @@ El objetivo de este proyecto será tener una casa más segura, ya que, en ocasio
 |004 |Node-red    |    3.0  |Freeware |
 
 
-# Tabla de hadware utilizado
+## Tabla de hadware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
 |001 |Esp32       |solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos|![image](https://user-images.githubusercontent.com/107783594/235006573-200eca33-0deb-406e-8a61-ba8f42dae3d0.png)|       1   |        $ 160    |
@@ -50,7 +50,7 @@ El objetivo de este proyecto será tener una casa más segura, ya que, en ocasio
 
 
 
-# Épicas de historias de Usuario
+## Épicas de historias de Usuario
 •	En movimiento que se enciendan las luces para una mejor seguridad.
 
 •	También que se detecte tanto el humo como el gas y así sea una señal de alerta 
@@ -58,19 +58,19 @@ El objetivo de este proyecto será tener una casa más segura, ya que, en ocasio
 •	La casa se ventile dependiendo de una cierta temperatura.
  
 
-# Tabla Historias de Usuario
+## Tabla Historias de Usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
 |   001 |      Al detectar movimiento se enciendan los led | Alta|	1 semana|	Al pasar una persona|	Esmeralda
 |   002 | La casa se ventile dependiendo de una cierta temperatura.	 |Media |	2 días  |	Depende de la temperatura. |	Omar
 |  003  |  Que la casa detecte fugas de gas haga sonar un buzzer cuando el nivel sea alto|	Alta|	3 días| 	Al exponer el sensor a una fuga de gas.	|Michel
 
-# Prototipo en dibujo
+## Prototipo en dibujo
 
 
 ![image](https://user-images.githubusercontent.com/107783594/234896709-19f0f645-ba0f-47ce-984f-a3a972266d9d.png)
 
-# Firma
+## Firma
 
 ![image](https://user-images.githubusercontent.com/107783594/234896922-e35d089f-750f-4153-b1ac-5ba42433b2e1.png)
 
