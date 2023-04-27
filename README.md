@@ -47,7 +47,7 @@ El objetivo de este proyecto será tener una casa más segura, ya que, en ocasio
 
 
 	
-Código
+# Código
 #include <Servo.h>
 #include <DHT.h>
 #include <WiFi.h>
