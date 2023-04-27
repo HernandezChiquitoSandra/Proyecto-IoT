@@ -2,17 +2,16 @@
 
 
 Área: Desarrollo de Software Multiplataforma
-
-
 Asignatura: Aplicaciones de loT
-
-
 Docente: Anastacio Rodríguez García 
 
-Integrantes:
+# Integrantes:
 Daniela Esmeralda Méndez | 1221100344
 Sandra Michel Hernández Chiquito | 1221100284
 Omar Alejandro Lozada Zúñiga | 1221100256
+
+# Nombre del Proyecto
+Home Security
 
 # Objetivo general
 El objetivo de este proyecto será tener una casa más segura, ya que, en ocasiones, en la mayoría de los hogares se olvida cerrar el gas de las estufas, lo cual puede ser muy peligro. Por otra parte, también se detectará movimiento y así se iluminará el exterior, de esta manera se pondrá en aviso a quienes están en el interior y harán, por el temor al verse descubierto, que el mal hechor se escape, algo más del proyecto es que cubra una necesidad en tiempos calurosos, detectara la temperatura y humedad y conforme esta sea una temperatura elevada se encenderá un ventilador.
@@ -49,6 +48,5 @@ El objetivo de este proyecto será tener una casa más segura, ya que, en ocasio
 
 ![image](https://user-images.githubusercontent.com/107783594/234896922-e35d089f-750f-4153-b1ac-5ba42433b2e1.png)
 
-# Link video
-https://youtu.be/cXVEwQV9R_c
+
 
