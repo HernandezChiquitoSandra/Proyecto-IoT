@@ -42,17 +42,11 @@ El objetivo de este proyecto será tener una casa más segura, ya que, en ocasio
 |----|------------|-------------|--------|----------|-------------|
 |001 |Esp32       |solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos|![image](https://user-images.githubusercontent.com/107783594/235006573-200eca33-0deb-406e-8a61-ba8f42dae3d0.png)|       1   |        $ 160    |
 |002 |Servomotor  |Es un tipo de motor eléctrico que tiene la capacidad de controlar el movimiento de su eje, en velocidad, aceleración, par y posición|![image](https://user-images.githubusercontent.com/107783594/235006672-f7004afe-7038-426a-8b18-046267bd974a.png)|      1    |      $80       |
-|003 |Dht11       |   Dispositivos utilizados en aplicaciones de edificación para medir la temperatura           |    ![image](https://user-images.githubusercontent.com/107783594/235006780-99f9a317-6f21-4589-87d1-8d2354c974e2.png)
-    |       1   |        $70     |
-    
-|004 |Buzzer     |  Es un pequeño transductor capaz de convertir la energía eléctrica en sonido.       |     ![image](https://user-images.githubusercontent.com/107783594/235006859-09970f6f-c86d-437d-bd60-6725b08ae4ca.png)
-   |      1    |         $60    |
-|005 | Led       |   emite luz a través del paso de la corriente eléctrica          |    ![image](https://user-images.githubusercontent.com/107783594/235006925-268d5da1-1ae8-46a1-af47-68ab59454596.png)
-    |       8   |       $3      |
-|006 |MQ-2        |       Es un sensor de gas inflamable y humo que detecta las concentraciones de gas combustible en el aire y emite su lectura como un voltaje analógico.       |    ![image](https://user-images.githubusercontent.com/107783594/235006985-a2e865f5-7215-4325-a0c7-e2253550d278.png)
-    |        1  |        $70     |
-|007 |  Movimiento  |        Es un dispositivo electrónico que pone en funcionamiento un sistema (encendido o apagado) cuando detecta movimiento en el área o ambiente en el que está instalado.     |    ![image](https://user-images.githubusercontent.com/107783594/235007037-b57a4113-d6d2-46d6-8c9c-4bfa39db3720.png)
-    |       1   |       $55      |
+|003 |Dht11       |   Dispositivos utilizados en aplicaciones de edificación para medir la temperatura|![image](https://user-images.githubusercontent.com/107783594/235006780-99f9a317-6f21-4589-87d1-8d2354c974e2.png)|       1   |        $70     |
+|004 |Buzzer     |  Es un pequeño transductor capaz de convertir la energía eléctrica en sonido.|![image](https://user-images.githubusercontent.com/107783594/235006859-09970f6f-c86d-437d-bd60-6725b08ae4ca.png)|      1    |         $60    |
+|005 | Led       |   emite luz a través del paso de la corriente eléctrica|![image](https://user-images.githubusercontent.com/107783594/235006925-268d5da1-1ae8-46a1-af47-68ab59454596.png)|       8   |       $3      |
+|006 |MQ-2 | Es un sensor de gas inflamable y humo que detecta las concentraciones de gas combustible en el aire y emite su lectura como un voltaje analógico.       |![image](https://user-images.githubusercontent.com/107783594/235006985-a2e865f5-7215-4325-a0c7-e2253550d278.png)|        1  |        $70     |
+|007 |  Movimiento  |Es un dispositivo electrónico que pone en funcionamiento un sistema (encendido o apagado) cuando detecta movimiento en el área o ambiente en el que está instalado.|![image](https://user-images.githubusercontent.com/107783594/235007037-b57a4113-d6d2-46d6-8c9c-4bfa39db3720.png)|       1   |       $55      |
 
 
 
