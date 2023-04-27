@@ -2,8 +2,12 @@
 
 
 Área: Desarrollo de Software Multiplataforma
+
 Asignatura: Aplicaciones de loT
+
 Docente: Anastacio Rodríguez García 
+
+GDS0453
 
 # Integrantes:
 Daniela Esmeralda Méndez | 1221100344
