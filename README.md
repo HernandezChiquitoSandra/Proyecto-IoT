@@ -40,13 +40,8 @@ El objetivo de este proyecto será tener una casa más segura, ya que, en ocasio
 # Tabla de hadware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-|001 |Esp32       |solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos|![image](https://user-images.githubusercontent.com/107783594/235006573-200eca33-0deb-406e-8a61-ba8f42dae3d0.png)
-|       1   |        $ 160    |
-
-
-
+|001 |Esp32       |solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos|![image](https://user-images.githubusercontent.com/107783594/235006573-200eca33-0deb-406e-8a61-ba8f42dae3d0.png)|       1   |        $ 160    |
 |002 |Servomotor  |Es un tipo de motor eléctrico que tiene la capacidad de controlar el movimiento de su eje, en velocidad, aceleración, par y posición|![image](https://user-images.githubusercontent.com/107783594/235006672-f7004afe-7038-426a-8b18-046267bd974a.png)|      1    |      $80       |
-
 |003 |Dht11       |   Dispositivos utilizados en aplicaciones de edificación para medir la temperatura           |    ![image](https://user-images.githubusercontent.com/107783594/235006780-99f9a317-6f21-4589-87d1-8d2354c974e2.png)
     |       1   |        $70     |
     
