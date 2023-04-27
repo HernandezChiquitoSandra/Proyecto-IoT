@@ -7,7 +7,9 @@ Docente: Anastacio Rodríguez García
 
 # Integrantes:
 Daniela Esmeralda Méndez | 1221100344
+
 Sandra Michel Hernández Chiquito | 1221100284
+
 Omar Alejandro Lozada Zúñiga | 1221100256
 
 # Nombre del Proyecto
