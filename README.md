@@ -29,16 +29,14 @@ El objetivo de este proyecto será tener una casa más segura, ya que, en ocasio
 
 # Tabla de software utilizado
 
-
-Id	Software	Versión 	Tipo
-001	Visual Studio Code	1.71.2	Freeware
-002	Arduino IDE	2	2
-003	Librería para sensor temperatura (DHT11)		
-004	Mosquito	5.0.3.1.1	Freeware
-005	NODE-RED	3.0	Freeware
-006	Motor de base de Datos		Freeware
-
-
+| Id  | SSoftware        |
+| ----| -----------------|
+| 001 |Visual Studio Code|
+| 002 | Arduino IDE      |
+| 004 |Librería DHT11    |
+| 004 | Mosquito         |
+| 005 | Node-red         |
+| 006 | Mariadb          |
 
 
 # Tabla de hadware utilizado
